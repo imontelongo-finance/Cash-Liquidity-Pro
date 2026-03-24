@@ -3,12 +3,16 @@ import pandas as pd
 import plotly.express as px
 from pathlib import Path
 import os
+import sys
 import subprocess
 
-# Check if data exists; if not, run the generation script
+# --- DATA SELF-HEALING BLOCK ---
+# Check if the processed data file exists. If not, run the pipeline.
 if not os.path.exists('data/processed/processed_data.csv'):
-    subprocess.run(["python", "scripts/generate_mock_data.py"])
-    subprocess.run(["python", "scripts/process_data.py"])
+    # We use sys.executable to ensure we use the same Python environment
+    subprocess.run([sys.executable, "scripts/generate_mock_data.py"])
+    subprocess.run([sys.executable, "scripts/process_data.py"])
+# -------------------------------
 # --- CONFIG ---
 st.set_page_config(page_title="Flink Strategic Finance", layout="wide")
 DATA_PATH = Path(__file__).parent / "data" / "processed"
