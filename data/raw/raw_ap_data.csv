@@ -1,201 +1,301 @@
 Vendor,Amount_EUR,Invoice_Date,Hub_Location,Category,Due_Date
-Vattenfall,29533,2026-03-19,Kreuzberg,Inventory,2026-04-02
-Meta Ads,20291,2026-02-15,Kreuzberg,Utilities,2026-03-01
-Tier Mobility,17562,2026-03-14,Prenzlauer Berg,Inventory,2026-03-28
-Coca-Cola Europacific,3601,2026-02-28,Mitte,Logistics,2026-03-14
-REWE Group,19925,2026-02-21,Prenzlauer Berg,Marketing,2026-03-07
-Vattenfall,6583,2026-03-24,Kreuzberg,SaaS,2026-04-07
-Coca-Cola Europacific,13373,2026-03-20,Kreuzberg,HR,2026-04-03
-Vattenfall,31602,2026-02-09,Kreuzberg,Inventory,2026-02-23
-Cloudflare,8755,2026-02-18,Mitte,Utilities,2026-03-04
-Personio,31585,2026-03-18,Neukölln,Inventory,2026-04-01
-Tier Mobility,30932,2026-03-24,Prenzlauer Berg,Logistics,2026-04-07
-REWE Group,21978,2026-02-22,Mitte,Marketing,2026-03-08
-Cloudflare,26690,2026-03-07,Kreuzberg,SaaS,2026-03-21
-Vattenfall,9572,2026-02-22,Mitte,HR,2026-03-08
-Meta Ads,33899,2026-02-18,Prenzlauer Berg,Inventory,2026-03-04
-Tier Mobility,3053,2026-02-25,Prenzlauer Berg,Utilities,2026-03-11
-Vattenfall,25573,2026-03-18,Kreuzberg,Inventory,2026-04-01
-REWE Group,34572,2026-02-17,Neukölln,Logistics,2026-03-03
-Tier Mobility,4677,2026-02-19,Mitte,Marketing,2026-03-05
-Meta Ads,13428,2026-02-25,Prenzlauer Berg,SaaS,2026-03-11
-Personio,1874,2026-02-09,Mitte,HR,2026-02-23
-Personio,21696,2026-03-08,Prenzlauer Berg,Inventory,2026-03-22
-Coca-Cola Europacific,14320,2026-02-28,Neukölln,Utilities,2026-03-14
-Personio,30941,2026-03-10,Neukölln,Inventory,2026-03-24
-Tier Mobility,31937,2026-03-11,Kreuzberg,Logistics,2026-03-25
-REWE Group,32928,2026-03-07,Neukölln,Marketing,2026-03-21
-Vattenfall,22441,2026-02-14,Mitte,SaaS,2026-02-28
-Meta Ads,19426,2026-03-14,Mitte,HR,2026-03-28
-Coca-Cola Europacific,11535,2026-03-16,Neukölln,Inventory,2026-03-30
-Personio,5913,2026-03-24,Mitte,Utilities,2026-04-07
-Cloudflare,16700,2026-03-08,Kreuzberg,Inventory,2026-03-22
-Tier Mobility,23027,2026-03-15,Prenzlauer Berg,Logistics,2026-03-29
-Vattenfall,10256,2026-03-20,Prenzlauer Berg,Marketing,2026-04-03
-REWE Group,18149,2026-02-24,Prenzlauer Berg,SaaS,2026-03-10
-Coca-Cola Europacific,10919,2026-03-06,Mitte,HR,2026-03-20
-REWE Group,28071,2026-02-25,Neukölln,Inventory,2026-03-11
-Personio,1525,2026-03-16,Prenzlauer Berg,Utilities,2026-03-30
-REWE Group,33604,2026-02-23,Kreuzberg,Inventory,2026-03-09
-REWE Group,8872,2026-03-01,Kreuzberg,Logistics,2026-03-15
-REWE Group,21482,2026-02-21,Neukölln,Marketing,2026-03-07
-Vattenfall,8033,2026-02-26,Mitte,SaaS,2026-03-12
-Cloudflare,33636,2026-03-18,Kreuzberg,HR,2026-04-01
-Personio,7245,2026-02-26,Mitte,Inventory,2026-03-12
-Cloudflare,13624,2026-02-16,Mitte,Utilities,2026-03-02
-Meta Ads,6610,2026-03-04,Neukölln,Inventory,2026-03-18
-Vattenfall,25637,2026-03-11,Mitte,Logistics,2026-03-25
-Cloudflare,12677,2026-02-14,Neukölln,Marketing,2026-02-28
-Vattenfall,4272,2026-03-01,Prenzlauer Berg,SaaS,2026-03-15
-Coca-Cola Europacific,22405,2026-03-12,Neukölln,HR,2026-03-26
-Vattenfall,13877,2026-02-18,Mitte,Inventory,2026-03-04
-Vattenfall,15745,2026-02-28,Prenzlauer Berg,Utilities,2026-03-14
-Meta Ads,17907,2026-02-26,Kreuzberg,Inventory,2026-03-12
-REWE Group,22076,2026-03-02,Neukölln,Logistics,2026-03-16
-Personio,29477,2026-03-07,Prenzlauer Berg,Marketing,2026-03-21
-Coca-Cola Europacific,22516,2026-03-14,Kreuzberg,SaaS,2026-03-28
-Tier Mobility,15062,2026-02-17,Kreuzberg,HR,2026-03-03
-Tier Mobility,11681,2026-03-12,Neukölln,Inventory,2026-03-26
-Tier Mobility,7523,2026-02-12,Mitte,Utilities,2026-02-26
-Vattenfall,30876,2026-03-03,Neukölln,Inventory,2026-03-17
-Meta Ads,15211,2026-03-12,Neukölln,Logistics,2026-03-26
-Vattenfall,17580,2026-03-22,Neukölln,Marketing,2026-04-05
-Cloudflare,20441,2026-03-18,Neukölln,SaaS,2026-04-01
-Meta Ads,24102,2026-02-28,Neukölln,HR,2026-03-14
-Personio,32653,2026-03-09,Neukölln,Inventory,2026-03-23
-Meta Ads,15615,2026-02-12,Neukölln,Utilities,2026-02-26
-Personio,17172,2026-03-02,Neukölln,Inventory,2026-03-16
-Coca-Cola Europacific,22912,2026-02-27,Kreuzberg,Logistics,2026-03-13
-Coca-Cola Europacific,28843,2026-03-10,Mitte,Marketing,2026-03-24
-Meta Ads,18846,2026-02-21,Mitte,SaaS,2026-03-07
-REWE Group,24396,2026-02-17,Neukölln,HR,2026-03-03
-Meta Ads,7247,2026-02-21,Neukölln,Inventory,2026-03-07
-Meta Ads,22973,2026-03-03,Neukölln,Utilities,2026-03-17
-Meta Ads,4795,2026-02-28,Mitte,Inventory,2026-03-14
-Coca-Cola Europacific,17988,2026-03-04,Mitte,Logistics,2026-03-18
-Tier Mobility,25590,2026-03-12,Prenzlauer Berg,Marketing,2026-03-26
-Meta Ads,12668,2026-03-14,Prenzlauer Berg,SaaS,2026-03-28
-Tier Mobility,23602,2026-03-21,Prenzlauer Berg,HR,2026-04-04
-Cloudflare,15370,2026-02-14,Mitte,Inventory,2026-02-28
-Cloudflare,1069,2026-03-11,Prenzlauer Berg,Utilities,2026-03-25
-REWE Group,6043,2026-03-19,Neukölln,Inventory,2026-04-02
-Coca-Cola Europacific,27111,2026-02-24,Kreuzberg,Logistics,2026-03-10
-Tier Mobility,23575,2026-02-25,Prenzlauer Berg,Marketing,2026-03-11
-Tier Mobility,8458,2026-03-02,Mitte,SaaS,2026-03-16
-Tier Mobility,11068,2026-02-18,Mitte,HR,2026-03-04
-Personio,6870,2026-03-22,Prenzlauer Berg,Inventory,2026-04-05
-Vattenfall,4466,2026-02-22,Prenzlauer Berg,Utilities,2026-03-08
-REWE Group,5267,2026-03-11,Kreuzberg,Inventory,2026-03-25
-REWE Group,10289,2026-02-09,Kreuzberg,Logistics,2026-02-23
-Meta Ads,21850,2026-02-14,Kreuzberg,Marketing,2026-02-28
-Tier Mobility,14762,2026-02-26,Prenzlauer Berg,SaaS,2026-03-12
-REWE Group,7493,2026-03-08,Kreuzberg,HR,2026-03-22
-REWE Group,13713,2026-03-02,Mitte,Inventory,2026-03-16
-Coca-Cola Europacific,29902,2026-02-08,Prenzlauer Berg,Utilities,2026-02-22
-Cloudflare,27595,2026-03-06,Neukölln,Inventory,2026-03-20
-REWE Group,5004,2026-03-05,Mitte,Logistics,2026-03-19
-Coca-Cola Europacific,3265,2026-02-12,Kreuzberg,Marketing,2026-02-26
-REWE Group,29316,2026-03-15,Mitte,SaaS,2026-03-29
-Coca-Cola Europacific,15423,2026-02-10,Mitte,HR,2026-02-24
-Vattenfall,4586,2026-03-09,Kreuzberg,Inventory,2026-03-23
-Meta Ads,25874,2026-03-07,Kreuzberg,Utilities,2026-03-21
-Coca-Cola Europacific,31356,2026-03-03,Mitte,Inventory,2026-03-17
-Cloudflare,23736,2026-03-15,Mitte,Logistics,2026-03-29
-Cloudflare,20133,2026-03-19,Kreuzberg,Marketing,2026-04-02
-Coca-Cola Europacific,10656,2026-02-14,Kreuzberg,SaaS,2026-02-28
-Personio,13590,2026-03-23,Kreuzberg,HR,2026-04-06
-Tier Mobility,8804,2026-02-09,Prenzlauer Berg,Inventory,2026-02-23
-Vattenfall,22035,2026-02-17,Prenzlauer Berg,Utilities,2026-03-03
-Cloudflare,16726,2026-02-22,Kreuzberg,Inventory,2026-03-08
-Personio,12471,2026-03-17,Neukölln,Logistics,2026-03-31
-REWE Group,29120,2026-02-17,Neukölln,Marketing,2026-03-03
-Coca-Cola Europacific,22617,2026-03-16,Mitte,SaaS,2026-03-30
-Cloudflare,23229,2026-02-12,Neukölln,HR,2026-02-26
-Coca-Cola Europacific,8508,2026-03-22,Kreuzberg,Inventory,2026-04-05
-REWE Group,34974,2026-03-15,Prenzlauer Berg,Utilities,2026-03-29
-Personio,26204,2026-02-27,Neukölln,Inventory,2026-03-13
-Personio,9944,2026-02-26,Mitte,Logistics,2026-03-12
-Meta Ads,15764,2026-03-02,Neukölln,Marketing,2026-03-16
-Cloudflare,17165,2026-02-27,Neukölln,SaaS,2026-03-13
-REWE Group,15560,2026-02-11,Prenzlauer Berg,HR,2026-02-25
-REWE Group,33552,2026-02-20,Prenzlauer Berg,Inventory,2026-03-06
-Vattenfall,29557,2026-02-20,Mitte,Utilities,2026-03-06
-Personio,33043,2026-02-21,Kreuzberg,Inventory,2026-03-07
-Meta Ads,11405,2026-03-13,Kreuzberg,Logistics,2026-03-27
-Meta Ads,20035,2026-02-14,Prenzlauer Berg,Marketing,2026-02-28
-Tier Mobility,21140,2026-03-17,Mitte,SaaS,2026-03-31
-REWE Group,11196,2026-03-08,Prenzlauer Berg,HR,2026-03-22
-Tier Mobility,24536,2026-02-19,Neukölln,Inventory,2026-03-05
-Meta Ads,1488,2026-03-05,Neukölln,Utilities,2026-03-19
-REWE Group,7187,2026-03-23,Kreuzberg,Inventory,2026-04-06
-REWE Group,9335,2026-03-06,Prenzlauer Berg,Logistics,2026-03-20
-REWE Group,1153,2026-03-14,Prenzlauer Berg,Marketing,2026-03-28
-Cloudflare,4504,2026-03-07,Prenzlauer Berg,SaaS,2026-03-21
-REWE Group,25707,2026-02-27,Mitte,HR,2026-03-13
-Meta Ads,24761,2026-02-21,Kreuzberg,Inventory,2026-03-07
-Cloudflare,32719,2026-03-19,Mitte,Utilities,2026-04-02
-Meta Ads,34922,2026-03-12,Mitte,Inventory,2026-03-26
-Tier Mobility,6252,2026-02-20,Neukölln,Logistics,2026-03-06
-REWE Group,2582,2026-02-23,Neukölln,Marketing,2026-03-09
-Vattenfall,24238,2026-02-16,Mitte,SaaS,2026-03-02
-Personio,16533,2026-02-25,Mitte,HR,2026-03-11
-Vattenfall,24611,2026-02-12,Kreuzberg,Inventory,2026-02-26
-Tier Mobility,30342,2026-03-03,Prenzlauer Berg,Utilities,2026-03-17
-Tier Mobility,25911,2026-02-28,Neukölln,Inventory,2026-03-14
-REWE Group,29893,2026-03-10,Prenzlauer Berg,Logistics,2026-03-24
-Personio,7230,2026-02-26,Neukölln,Marketing,2026-03-12
-Meta Ads,24724,2026-02-28,Prenzlauer Berg,SaaS,2026-03-14
-Coca-Cola Europacific,7494,2026-03-20,Kreuzberg,HR,2026-04-03
-Meta Ads,8058,2026-02-16,Kreuzberg,Inventory,2026-03-02
-Personio,1381,2026-02-23,Prenzlauer Berg,Utilities,2026-03-09
-Meta Ads,18603,2026-03-15,Neukölln,Inventory,2026-03-29
-Tier Mobility,1370,2026-03-24,Prenzlauer Berg,Logistics,2026-04-07
-Cloudflare,24676,2026-02-15,Neukölln,Marketing,2026-03-01
-Coca-Cola Europacific,24914,2026-02-27,Neukölln,SaaS,2026-03-13
-Coca-Cola Europacific,24907,2026-02-14,Prenzlauer Berg,HR,2026-02-28
-Meta Ads,32219,2026-03-17,Mitte,Inventory,2026-03-31
-REWE Group,20065,2026-03-05,Prenzlauer Berg,Utilities,2026-03-19
-Meta Ads,2330,2026-02-13,Kreuzberg,Inventory,2026-02-27
-REWE Group,13838,2026-03-19,Kreuzberg,Logistics,2026-04-02
-REWE Group,28171,2026-03-20,Mitte,Marketing,2026-04-03
-Personio,30259,2026-02-28,Neukölln,SaaS,2026-03-14
-Meta Ads,29377,2026-02-21,Neukölln,HR,2026-03-07
-Meta Ads,6225,2026-02-19,Prenzlauer Berg,Inventory,2026-03-05
-Meta Ads,24441,2026-02-27,Prenzlauer Berg,Utilities,2026-03-13
-Tier Mobility,9326,2026-03-06,Prenzlauer Berg,Inventory,2026-03-20
-Coca-Cola Europacific,12493,2026-02-08,Prenzlauer Berg,Logistics,2026-02-22
-Meta Ads,18742,2026-02-15,Kreuzberg,Marketing,2026-03-01
-Vattenfall,29555,2026-03-06,Kreuzberg,SaaS,2026-03-20
-Coca-Cola Europacific,18062,2026-03-17,Neukölln,HR,2026-03-31
-Cloudflare,31802,2026-03-14,Kreuzberg,Inventory,2026-03-28
-REWE Group,21085,2026-02-14,Neukölln,Utilities,2026-02-28
-Personio,22661,2026-03-14,Kreuzberg,Inventory,2026-03-28
-Vattenfall,23151,2026-03-16,Neukölln,Logistics,2026-03-30
-Coca-Cola Europacific,15236,2026-02-10,Prenzlauer Berg,Marketing,2026-02-24
-Vattenfall,17799,2026-03-16,Neukölln,SaaS,2026-03-30
-Personio,19854,2026-03-11,Prenzlauer Berg,HR,2026-03-25
-Tier Mobility,4610,2026-03-12,Mitte,Inventory,2026-03-26
-REWE Group,27186,2026-03-01,Mitte,Utilities,2026-03-15
-Vattenfall,9267,2026-02-16,Kreuzberg,Inventory,2026-03-02
-Cloudflare,4075,2026-02-13,Mitte,Logistics,2026-02-27
-Personio,10774,2026-03-24,Mitte,Marketing,2026-04-07
-Cloudflare,26945,2026-02-19,Mitte,SaaS,2026-03-05
-Tier Mobility,9023,2026-03-13,Kreuzberg,HR,2026-03-27
-Tier Mobility,26844,2026-03-07,Kreuzberg,Inventory,2026-03-21
-Personio,30211,2026-02-20,Prenzlauer Berg,Utilities,2026-03-06
-Cloudflare,30404,2026-02-13,Prenzlauer Berg,Inventory,2026-02-27
-Meta Ads,13379,2026-03-11,Mitte,Logistics,2026-03-25
-Personio,9937,2026-02-20,Neukölln,Marketing,2026-03-06
-Coca-Cola Europacific,33238,2026-03-11,Neukölln,SaaS,2026-03-25
-Coca-Cola Europacific,8696,2026-03-13,Mitte,HR,2026-03-27
-Vattenfall,17997,2026-02-14,Mitte,Inventory,2026-02-28
-Tier Mobility,34940,2026-02-13,Kreuzberg,Utilities,2026-02-27
-Coca-Cola Europacific,21844,2026-02-19,Neukölln,Inventory,2026-03-05
-Vattenfall,14901,2026-03-19,Mitte,Logistics,2026-04-02
-Tier Mobility,9493,2026-02-15,Prenzlauer Berg,Marketing,2026-03-01
-Cloudflare,34807,2026-03-18,Prenzlauer Berg,SaaS,2026-04-01
-Tier Mobility,19526,2026-03-21,Kreuzberg,HR,2026-04-04
-Tier Mobility,31576,2026-02-08,Kreuzberg,HR,2026-02-22
-Personio,1167,2026-02-24,Kreuzberg,HR,2026-03-10
-Vattenfall,34220,2026-03-19,Neukölln,HR,2026-04-02
-REWE Group,18638,2026-02-25,Neukölln,HR,2026-03-11
+Personio,10568,2026-02-21,Mitte,Inventory,2026-04-22
+Coca-Cola Europacific,5634,2026-02-22,Neukölln,Utilities,2026-03-24
+Coca-Cola Europacific,41051,2026-04-30,Mitte,Inventory,2026-05-14
+REWE Group,2157,2026-04-27,Kreuzberg,Logistics,2026-05-27
+Tier Mobility,21256,2026-04-25,Prenzlauer Berg,Marketing,2026-06-09
+Meta Ads,29238,2026-04-01,Neukölln,SaaS,2026-05-16
+Tier Mobility,16976,2026-02-12,Prenzlauer Berg,HR,2026-02-26
+REWE Group,15634,2026-03-06,Mitte,Inventory,2026-05-05
+Vattenfall,2667,2026-05-04,Neukölln,Utilities,2026-06-18
+Tier Mobility,35170,2026-02-20,Mitte,Inventory,2026-03-22
+Personio,40509,2026-03-26,Kreuzberg,Logistics,2026-04-25
+Tier Mobility,38798,2026-02-16,Kreuzberg,Marketing,2026-04-17
+Cloudflare,22646,2026-03-24,Mitte,SaaS,2026-05-08
+Coca-Cola Europacific,21875,2026-04-08,Mitte,HR,2026-05-08
+Vattenfall,33524,2026-03-31,Kreuzberg,Inventory,2026-04-14
+REWE Group,37297,2026-04-18,Kreuzberg,Utilities,2026-06-02
+Tier Mobility,32167,2026-04-06,Prenzlauer Berg,Inventory,2026-06-05
+REWE Group,26767,2026-02-24,Prenzlauer Berg,Logistics,2026-03-26
+Cloudflare,29338,2026-02-17,Mitte,Marketing,2026-04-18
+Personio,39358,2026-04-13,Prenzlauer Berg,SaaS,2026-05-28
+Personio,44427,2026-02-09,Prenzlauer Berg,HR,2026-03-26
+Personio,42111,2026-02-23,Kreuzberg,Inventory,2026-04-24
+Cloudflare,13064,2026-02-14,Neukölln,Utilities,2026-03-16
+Cloudflare,40039,2026-02-08,Neukölln,Inventory,2026-02-22
+Personio,2397,2026-03-18,Kreuzberg,Logistics,2026-05-17
+Vattenfall,23044,2026-04-22,Kreuzberg,Marketing,2026-05-22
+Personio,24577,2026-04-23,Prenzlauer Berg,SaaS,2026-06-22
+Cloudflare,17106,2026-04-22,Neukölln,HR,2026-05-22
+Tier Mobility,6326,2026-04-27,Mitte,Inventory,2026-06-11
+Cloudflare,20781,2026-03-11,Kreuzberg,Utilities,2026-03-25
+Meta Ads,31633,2026-05-02,Mitte,Inventory,2026-06-01
+Personio,10299,2026-04-04,Mitte,Logistics,2026-05-19
+Coca-Cola Europacific,11270,2026-04-25,Mitte,Marketing,2026-06-24
+Tier Mobility,8405,2026-02-24,Prenzlauer Berg,SaaS,2026-03-10
+REWE Group,29421,2026-04-30,Prenzlauer Berg,HR,2026-05-30
+Personio,25585,2026-04-27,Prenzlauer Berg,Inventory,2026-05-11
+Meta Ads,31635,2026-05-05,Kreuzberg,Utilities,2026-05-19
+Tier Mobility,9555,2026-03-07,Prenzlauer Berg,Inventory,2026-04-21
+Vattenfall,38743,2026-04-25,Mitte,Logistics,2026-05-25
+Tier Mobility,3101,2026-04-02,Prenzlauer Berg,Marketing,2026-05-17
+Meta Ads,3666,2026-05-07,Mitte,SaaS,2026-06-21
+REWE Group,38069,2026-02-23,Mitte,HR,2026-03-25
+Personio,20183,2026-03-03,Prenzlauer Berg,Inventory,2026-03-17
+Tier Mobility,17676,2026-02-12,Mitte,Utilities,2026-03-14
+Coca-Cola Europacific,41205,2026-03-19,Kreuzberg,Inventory,2026-05-18
+Vattenfall,33559,2026-02-21,Kreuzberg,Logistics,2026-04-22
+Coca-Cola Europacific,23033,2026-03-30,Kreuzberg,Marketing,2026-04-29
+Vattenfall,25616,2026-02-10,Kreuzberg,SaaS,2026-03-12
+REWE Group,39117,2026-03-09,Neukölln,HR,2026-04-23
+Tier Mobility,26990,2026-04-29,Mitte,Inventory,2026-06-28
+Vattenfall,10596,2026-04-09,Kreuzberg,Utilities,2026-06-08
+REWE Group,43911,2026-02-08,Prenzlauer Berg,Inventory,2026-03-10
+Cloudflare,2945,2026-04-16,Neukölln,Logistics,2026-06-15
+Tier Mobility,31118,2026-04-18,Neukölln,Marketing,2026-05-02
+REWE Group,37107,2026-04-28,Mitte,SaaS,2026-05-28
+Personio,12357,2026-05-05,Kreuzberg,HR,2026-07-04
+Meta Ads,36796,2026-03-22,Prenzlauer Berg,Inventory,2026-05-06
+Coca-Cola Europacific,22831,2026-03-16,Kreuzberg,Utilities,2026-04-15
+Tier Mobility,27765,2026-04-20,Prenzlauer Berg,Inventory,2026-05-20
+Meta Ads,13322,2026-02-10,Neukölln,Logistics,2026-03-27
+Tier Mobility,9676,2026-02-21,Kreuzberg,Marketing,2026-03-23
+Tier Mobility,43186,2026-02-20,Mitte,SaaS,2026-04-21
+Tier Mobility,39745,2026-02-15,Kreuzberg,HR,2026-03-01
+Cloudflare,37179,2026-04-20,Mitte,Inventory,2026-05-04
+Coca-Cola Europacific,41589,2026-03-13,Prenzlauer Berg,Utilities,2026-03-27
+Cloudflare,4585,2026-03-10,Neukölln,Inventory,2026-05-09
+REWE Group,28961,2026-03-18,Mitte,Logistics,2026-05-02
+Vattenfall,35532,2026-03-03,Prenzlauer Berg,Marketing,2026-04-17
+Meta Ads,15827,2026-02-23,Kreuzberg,SaaS,2026-04-09
+Personio,41109,2026-02-14,Neukölln,HR,2026-04-15
+Cloudflare,32045,2026-04-03,Kreuzberg,Inventory,2026-05-03
+Vattenfall,5753,2026-03-17,Prenzlauer Berg,Utilities,2026-05-01
+REWE Group,4690,2026-02-14,Prenzlauer Berg,Inventory,2026-04-15
+Personio,39274,2026-03-12,Prenzlauer Berg,Logistics,2026-03-26
+REWE Group,40290,2026-03-14,Neukölln,Marketing,2026-04-13
+Vattenfall,36172,2026-02-10,Neukölln,SaaS,2026-03-27
+Cloudflare,21772,2026-04-04,Neukölln,HR,2026-05-19
+Coca-Cola Europacific,42638,2026-04-24,Prenzlauer Berg,Inventory,2026-05-24
+Meta Ads,35594,2026-02-18,Neukölln,Utilities,2026-03-04
+Tier Mobility,7792,2026-05-01,Neukölln,Inventory,2026-06-30
+REWE Group,4204,2026-05-05,Neukölln,Logistics,2026-06-19
+Tier Mobility,28302,2026-03-14,Neukölln,Marketing,2026-04-13
+Vattenfall,31088,2026-02-25,Neukölln,SaaS,2026-03-27
+REWE Group,14053,2026-04-17,Neukölln,HR,2026-05-17
+Coca-Cola Europacific,12422,2026-03-15,Kreuzberg,Inventory,2026-03-29
+Cloudflare,23920,2026-03-02,Prenzlauer Berg,Utilities,2026-05-01
+Meta Ads,6182,2026-04-12,Mitte,Inventory,2026-05-27
+Personio,37180,2026-04-26,Prenzlauer Berg,Logistics,2026-06-25
+Coca-Cola Europacific,41548,2026-03-26,Neukölln,Marketing,2026-04-25
+Tier Mobility,11610,2026-04-26,Kreuzberg,SaaS,2026-05-26
+Personio,39417,2026-02-13,Kreuzberg,HR,2026-04-14
+REWE Group,26664,2026-04-14,Mitte,Inventory,2026-04-28
+Vattenfall,6433,2026-03-24,Mitte,Utilities,2026-05-08
+REWE Group,18348,2026-04-14,Neukölln,Inventory,2026-05-29
+Cloudflare,44227,2026-05-07,Neukölln,Logistics,2026-05-21
+Coca-Cola Europacific,22033,2026-03-24,Prenzlauer Berg,Marketing,2026-05-08
+Personio,23885,2026-04-03,Neukölln,SaaS,2026-05-03
+Tier Mobility,10093,2026-03-07,Mitte,HR,2026-04-06
+Personio,43374,2026-04-15,Neukölln,Inventory,2026-05-30
+Vattenfall,26955,2026-05-02,Prenzlauer Berg,Utilities,2026-06-01
+Coca-Cola Europacific,41537,2026-03-27,Mitte,Inventory,2026-05-11
+REWE Group,16368,2026-02-10,Mitte,Logistics,2026-04-11
+Vattenfall,37341,2026-03-21,Neukölln,Marketing,2026-05-05
+Personio,22206,2026-03-31,Mitte,SaaS,2026-04-14
+Vattenfall,31480,2026-02-17,Kreuzberg,HR,2026-04-18
+Cloudflare,12631,2026-02-12,Kreuzberg,Inventory,2026-03-29
+Personio,1343,2026-05-01,Kreuzberg,Utilities,2026-06-30
+Vattenfall,31158,2026-02-14,Kreuzberg,Inventory,2026-03-31
+Coca-Cola Europacific,20707,2026-03-30,Neukölln,Logistics,2026-04-29
+Tier Mobility,13124,2026-02-17,Prenzlauer Berg,Marketing,2026-04-18
+Tier Mobility,31097,2026-04-11,Mitte,SaaS,2026-04-25
+Personio,21102,2026-03-06,Mitte,HR,2026-03-20
+Meta Ads,39521,2026-04-23,Neukölln,Inventory,2026-05-07
+Cloudflare,27686,2026-03-24,Prenzlauer Berg,Utilities,2026-04-07
+Personio,3526,2026-02-24,Mitte,Inventory,2026-03-26
+Coca-Cola Europacific,10573,2026-04-05,Mitte,Logistics,2026-05-05
+REWE Group,22860,2026-04-02,Mitte,Marketing,2026-05-02
+REWE Group,21725,2026-04-07,Kreuzberg,SaaS,2026-05-07
+Tier Mobility,23513,2026-03-03,Mitte,HR,2026-04-02
+Meta Ads,23782,2026-02-25,Kreuzberg,Inventory,2026-04-26
+REWE Group,36210,2026-04-23,Neukölln,Utilities,2026-06-22
+REWE Group,23223,2026-04-20,Prenzlauer Berg,Inventory,2026-06-04
+REWE Group,26160,2026-04-27,Kreuzberg,Logistics,2026-05-27
+Vattenfall,1565,2026-02-08,Neukölln,Marketing,2026-03-25
+Coca-Cola Europacific,28471,2026-04-23,Prenzlauer Berg,SaaS,2026-05-23
+Personio,26919,2026-03-01,Mitte,HR,2026-03-15
+Vattenfall,19560,2026-03-11,Kreuzberg,Inventory,2026-05-10
+REWE Group,5107,2026-03-18,Neukölln,Utilities,2026-05-02
+Personio,32614,2026-02-13,Mitte,Inventory,2026-03-30
+Coca-Cola Europacific,9150,2026-03-06,Mitte,Logistics,2026-03-20
+Personio,11519,2026-04-09,Mitte,Marketing,2026-05-24
+Personio,7294,2026-04-03,Mitte,SaaS,2026-05-03
+Vattenfall,1823,2026-04-16,Mitte,HR,2026-04-30
+REWE Group,1524,2026-02-14,Mitte,Inventory,2026-04-15
+Tier Mobility,7127,2026-03-04,Neukölln,Utilities,2026-04-03
+REWE Group,15026,2026-04-01,Prenzlauer Berg,Inventory,2026-05-16
+Cloudflare,10020,2026-02-20,Neukölln,Logistics,2026-04-06
+Meta Ads,14186,2026-04-07,Mitte,Marketing,2026-04-21
+Tier Mobility,36843,2026-02-07,Mitte,SaaS,2026-04-08
+REWE Group,9387,2026-03-14,Neukölln,HR,2026-04-28
+Tier Mobility,8552,2026-05-01,Kreuzberg,Inventory,2026-06-15
+Meta Ads,23749,2026-04-28,Neukölln,Utilities,2026-05-28
+Tier Mobility,11775,2026-02-18,Neukölln,Inventory,2026-03-04
+Vattenfall,43948,2026-03-17,Neukölln,Logistics,2026-05-01
+Cloudflare,36491,2026-04-12,Mitte,Marketing,2026-06-11
+Cloudflare,34258,2026-02-26,Mitte,SaaS,2026-04-27
+Meta Ads,36290,2026-04-13,Prenzlauer Berg,HR,2026-04-27
+Personio,16474,2026-03-05,Kreuzberg,Inventory,2026-04-19
+Coca-Cola Europacific,40491,2026-05-01,Kreuzberg,Utilities,2026-06-30
+Coca-Cola Europacific,40238,2026-05-06,Prenzlauer Berg,Inventory,2026-07-05
+Personio,21346,2026-04-13,Prenzlauer Berg,Logistics,2026-06-12
+Vattenfall,11101,2026-02-21,Prenzlauer Berg,Marketing,2026-04-07
+Tier Mobility,43966,2026-03-25,Mitte,SaaS,2026-05-09
+Personio,17163,2026-02-27,Neukölln,HR,2026-04-28
+Meta Ads,38492,2026-03-02,Kreuzberg,Inventory,2026-05-01
+Personio,17763,2026-02-07,Mitte,Utilities,2026-04-08
+Personio,28566,2026-03-27,Neukölln,Inventory,2026-04-26
+Tier Mobility,30039,2026-04-18,Mitte,Logistics,2026-05-02
+Tier Mobility,21556,2026-02-11,Mitte,Marketing,2026-04-12
+Vattenfall,37147,2026-02-11,Mitte,SaaS,2026-03-13
+Meta Ads,13725,2026-02-27,Mitte,HR,2026-04-13
+Cloudflare,18357,2026-03-01,Neukölln,Inventory,2026-03-15
+Personio,41665,2026-03-27,Kreuzberg,Utilities,2026-04-10
+REWE Group,14083,2026-03-15,Kreuzberg,Inventory,2026-04-29
+REWE Group,17622,2026-03-04,Prenzlauer Berg,Logistics,2026-04-03
+Vattenfall,12528,2026-04-25,Neukölln,Marketing,2026-06-09
+Personio,39295,2026-05-03,Prenzlauer Berg,SaaS,2026-05-17
+Meta Ads,23514,2026-04-17,Prenzlauer Berg,HR,2026-06-01
+Coca-Cola Europacific,26280,2026-02-11,Neukölln,Inventory,2026-03-28
+REWE Group,21806,2026-03-19,Neukölln,Utilities,2026-05-18
+REWE Group,43544,2026-03-02,Kreuzberg,Inventory,2026-03-16
+Coca-Cola Europacific,6663,2026-03-04,Kreuzberg,Logistics,2026-03-18
+Vattenfall,43587,2026-02-22,Kreuzberg,Marketing,2026-03-24
+Vattenfall,1053,2026-03-06,Kreuzberg,SaaS,2026-04-20
+Coca-Cola Europacific,15972,2026-02-21,Prenzlauer Berg,HR,2026-04-22
+Personio,4769,2026-03-24,Neukölln,Inventory,2026-04-07
+Tier Mobility,31326,2026-03-13,Prenzlauer Berg,Utilities,2026-04-12
+Personio,39863,2026-04-09,Neukölln,Inventory,2026-05-09
+Tier Mobility,28609,2026-03-18,Mitte,Logistics,2026-04-17
+Tier Mobility,41709,2026-03-29,Kreuzberg,Marketing,2026-04-12
+Vattenfall,41809,2026-03-17,Mitte,SaaS,2026-05-16
+Cloudflare,16040,2026-04-13,Neukölln,HR,2026-05-13
+Tier Mobility,8105,2026-04-29,Mitte,Inventory,2026-05-13
+Tier Mobility,7230,2026-03-30,Kreuzberg,Utilities,2026-04-13
+Coca-Cola Europacific,5482,2026-04-15,Neukölln,Inventory,2026-05-15
+Cloudflare,20399,2026-04-18,Mitte,Logistics,2026-05-02
+Tier Mobility,3206,2026-05-05,Mitte,Marketing,2026-06-04
+Personio,5520,2026-03-03,Mitte,SaaS,2026-03-17
+Vattenfall,25505,2026-03-15,Kreuzberg,HR,2026-04-29
+Tier Mobility,13109,2026-03-07,Mitte,Inventory,2026-05-06
+Personio,24804,2026-04-08,Neukölln,Utilities,2026-06-07
+Vattenfall,9457,2026-03-04,Prenzlauer Berg,Inventory,2026-03-18
+Personio,16774,2026-03-13,Prenzlauer Berg,Logistics,2026-05-12
+Personio,13828,2026-02-20,Prenzlauer Berg,Marketing,2026-04-21
+Coca-Cola Europacific,9307,2026-02-26,Kreuzberg,SaaS,2026-03-12
+Meta Ads,18748,2026-04-03,Kreuzberg,HR,2026-06-02
+Personio,19440,2026-03-15,Mitte,Inventory,2026-04-14
+Meta Ads,34661,2026-03-14,Mitte,Utilities,2026-05-13
+Vattenfall,33963,2026-04-29,Prenzlauer Berg,Inventory,2026-05-13
+Vattenfall,18346,2026-03-16,Mitte,Logistics,2026-04-15
+Personio,16620,2026-04-21,Mitte,Marketing,2026-06-05
+Meta Ads,1948,2026-05-01,Neukölln,SaaS,2026-05-15
+Vattenfall,38210,2026-04-30,Neukölln,HR,2026-05-30
+Vattenfall,41347,2026-03-07,Mitte,Inventory,2026-03-21
+Meta Ads,44786,2026-02-20,Prenzlauer Berg,Utilities,2026-03-06
+Personio,26729,2026-04-10,Prenzlauer Berg,Inventory,2026-06-09
+Personio,32911,2026-04-01,Neukölln,Logistics,2026-05-01
+Coca-Cola Europacific,34130,2026-02-09,Mitte,Marketing,2026-02-23
+Cloudflare,10301,2026-03-06,Prenzlauer Berg,SaaS,2026-05-05
+Cloudflare,42661,2026-03-07,Kreuzberg,HR,2026-04-06
+Meta Ads,11318,2026-02-25,Prenzlauer Berg,Inventory,2026-03-27
+Coca-Cola Europacific,27381,2026-02-21,Prenzlauer Berg,Utilities,2026-03-07
+Personio,17068,2026-03-30,Kreuzberg,Inventory,2026-05-29
+Tier Mobility,12611,2026-02-16,Neukölln,Logistics,2026-04-17
+Vattenfall,41160,2026-04-16,Kreuzberg,Marketing,2026-06-15
+REWE Group,26472,2026-02-09,Mitte,SaaS,2026-03-26
+Meta Ads,38378,2026-03-03,Prenzlauer Berg,HR,2026-04-17
+Coca-Cola Europacific,42586,2026-04-07,Prenzlauer Berg,Inventory,2026-06-06
+Meta Ads,29531,2026-04-29,Neukölln,Utilities,2026-06-13
+Cloudflare,16274,2026-03-13,Neukölln,Inventory,2026-03-27
+Vattenfall,7913,2026-05-07,Mitte,Logistics,2026-05-21
+Cloudflare,44221,2026-03-27,Kreuzberg,Marketing,2026-05-11
+Coca-Cola Europacific,32383,2026-04-15,Neukölln,SaaS,2026-05-30
+Tier Mobility,11632,2026-02-22,Prenzlauer Berg,HR,2026-04-08
+REWE Group,44451,2026-02-07,Prenzlauer Berg,Inventory,2026-03-24
+Coca-Cola Europacific,35503,2026-04-09,Mitte,Utilities,2026-05-24
+Tier Mobility,33442,2026-03-16,Mitte,Inventory,2026-04-30
+Personio,39592,2026-05-05,Neukölln,Logistics,2026-06-04
+Cloudflare,4016,2026-04-14,Neukölln,Marketing,2026-05-14
+Tier Mobility,4376,2026-02-08,Kreuzberg,SaaS,2026-02-22
+Coca-Cola Europacific,43343,2026-03-25,Neukölln,HR,2026-04-08
+Tier Mobility,30579,2026-05-05,Neukölln,Inventory,2026-07-04
+Tier Mobility,44999,2026-02-09,Mitte,Utilities,2026-03-26
+REWE Group,44831,2026-04-20,Mitte,Inventory,2026-05-04
+Meta Ads,13369,2026-03-21,Mitte,Logistics,2026-05-05
+Meta Ads,15044,2026-03-31,Neukölln,Marketing,2026-04-30
+Coca-Cola Europacific,29204,2026-05-03,Neukölln,SaaS,2026-06-02
+Personio,29876,2026-03-26,Kreuzberg,HR,2026-05-10
+Coca-Cola Europacific,27938,2026-05-05,Kreuzberg,Inventory,2026-06-04
+Coca-Cola Europacific,4016,2026-03-26,Mitte,Utilities,2026-04-25
+Meta Ads,39451,2026-04-21,Kreuzberg,Inventory,2026-05-21
+Vattenfall,32224,2026-05-06,Neukölln,Logistics,2026-07-05
+Coca-Cola Europacific,15369,2026-03-05,Neukölln,Marketing,2026-03-19
+REWE Group,12664,2026-04-21,Kreuzberg,SaaS,2026-05-05
+Vattenfall,21905,2026-04-13,Prenzlauer Berg,HR,2026-04-27
+Coca-Cola Europacific,28879,2026-04-28,Kreuzberg,Inventory,2026-05-28
+Vattenfall,41943,2026-02-08,Mitte,Utilities,2026-03-10
+Coca-Cola Europacific,10653,2026-03-31,Neukölln,Inventory,2026-05-15
+Cloudflare,22390,2026-02-26,Kreuzberg,Logistics,2026-03-12
+Vattenfall,3498,2026-02-27,Mitte,Marketing,2026-03-29
+Personio,24788,2026-02-17,Prenzlauer Berg,SaaS,2026-04-18
+Vattenfall,17063,2026-03-16,Kreuzberg,HR,2026-04-15
+Vattenfall,3663,2026-03-18,Prenzlauer Berg,Inventory,2026-04-01
+Coca-Cola Europacific,20680,2026-04-04,Prenzlauer Berg,Utilities,2026-05-19
+Tier Mobility,23437,2026-05-04,Prenzlauer Berg,Inventory,2026-06-18
+Tier Mobility,24547,2026-03-31,Neukölln,Logistics,2026-04-30
+Coca-Cola Europacific,17494,2026-04-25,Neukölln,Marketing,2026-06-09
+REWE Group,14114,2026-05-04,Kreuzberg,SaaS,2026-07-03
+Meta Ads,2361,2026-04-17,Mitte,HR,2026-06-16
+Coca-Cola Europacific,44493,2026-04-12,Neukölln,Inventory,2026-05-27
+Meta Ads,28290,2026-02-10,Prenzlauer Berg,Utilities,2026-03-12
+Coca-Cola Europacific,12721,2026-03-23,Neukölln,Inventory,2026-04-22
+Personio,43903,2026-03-22,Neukölln,Logistics,2026-04-21
+Cloudflare,41061,2026-03-31,Mitte,Marketing,2026-05-30
+REWE Group,9357,2026-03-03,Kreuzberg,SaaS,2026-04-17
+Vattenfall,11014,2026-02-23,Kreuzberg,HR,2026-04-24
+Coca-Cola Europacific,13403,2026-03-20,Mitte,Inventory,2026-05-04
+Cloudflare,25140,2026-02-22,Prenzlauer Berg,Utilities,2026-03-24
+Vattenfall,27089,2026-02-28,Neukölln,Inventory,2026-03-30
+Personio,16172,2026-04-25,Neukölln,Logistics,2026-06-09
+Personio,21326,2026-03-04,Neukölln,Marketing,2026-04-03
+Vattenfall,16670,2026-03-06,Neukölln,SaaS,2026-05-05
+REWE Group,11737,2026-02-15,Kreuzberg,HR,2026-04-16
+Coca-Cola Europacific,2212,2026-02-26,Neukölln,Inventory,2026-04-27
+Tier Mobility,17033,2026-02-09,Neukölln,Utilities,2026-03-26
+Cloudflare,35559,2026-03-03,Kreuzberg,Inventory,2026-04-17
+Meta Ads,37209,2026-03-16,Mitte,Logistics,2026-05-15
+Vattenfall,26594,2026-04-25,Mitte,Marketing,2026-05-25
+REWE Group,8611,2026-03-10,Mitte,SaaS,2026-04-24
+Coca-Cola Europacific,9952,2026-04-10,Neukölln,HR,2026-05-25
+Meta Ads,28058,2026-04-22,Prenzlauer Berg,Inventory,2026-06-06
+REWE Group,1185,2026-03-21,Neukölln,Utilities,2026-05-05
+Vattenfall,31079,2026-03-10,Neukölln,Inventory,2026-05-09
+Vattenfall,14064,2026-02-11,Mitte,Logistics,2026-03-13
+Tier Mobility,40999,2026-05-07,Mitte,Marketing,2026-07-06
+Cloudflare,25833,2026-03-24,Kreuzberg,SaaS,2026-05-23
+Vattenfall,18671,2026-02-20,Neukölln,HR,2026-04-06
+Personio,9360,2026-03-03,Mitte,Inventory,2026-04-17
+Meta Ads,2889,2026-02-13,Mitte,Utilities,2026-04-14
+Meta Ads,3759,2026-04-19,Neukölln,Inventory,2026-05-03
+Cloudflare,35241,2026-02-19,Kreuzberg,Logistics,2026-03-05
+Meta Ads,19970,2026-04-08,Kreuzberg,Marketing,2026-04-22
+Tier Mobility,32745,2026-03-07,Prenzlauer Berg,SaaS,2026-03-21
+Vattenfall,17992,2026-04-25,Prenzlauer Berg,HR,2026-06-24
+Cloudflare,38894,2026-05-02,Mitte,HR,2026-07-01
+Tier Mobility,3484,2026-04-14,Mitte,HR,2026-06-13
+REWE Group,5120,2026-04-29,Mitte,HR,2026-06-28
+Personio,10050,2026-03-05,Prenzlauer Berg,HR,2026-04-19
+Personio,22927,2026-03-22,Prenzlauer Berg,HR,2026-04-05
+Vattenfall,12111,2026-04-05,Kreuzberg,HR,2026-04-19
