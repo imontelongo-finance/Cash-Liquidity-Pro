@@ -7,12 +7,16 @@ def generate_data():
     raw_path = Path(__file__).parent.parent / "data" / "raw"
     raw_path.mkdir(parents=True, exist_ok=True)
 
+    # Define Hubs once to ensure consistency across AP and Ops
+    hubs = ['Mitte', 'Prenzlauer Berg', 'Neukölln', 'Kreuzberg']
+
     # 1. Accounts Payable with expanded vendors
     vendors = ['REWE Group', 'Vattenfall', 'Coca-Cola Europacific', 'Tier Mobility', 'Meta Ads', 'Cloudflare', 'Personio']
     ap_data = {
         'Vendor': [np.random.choice(vendors) for _ in range(200)],
         'Amount_EUR': [np.random.randint(500, 35000) for _ in range(200)],
         'Invoice_Date': [pd.Timestamp.now().normalize() - timedelta(days=np.random.randint(0, 45)) for _ in range(200)],
+        'Hub_Location': [np.random.choice(hubs) for _ in range(200)], # ADDED: Links expenses to specific hubs
         'Category': ['Inventory', 'Utilities', 'Inventory', 'Logistics', 'Marketing', 'SaaS', 'HR'] * 28 + ['HR'] * 4
     }
     df_ap = pd.DataFrame(ap_data)
@@ -20,7 +24,6 @@ def generate_data():
     df_ap.to_csv(raw_path / "raw_ap_data.csv", index=False)
 
     # 2. Daily Ops with Hub Locations (Berlin Focus)
-    hubs = ['Mitte', 'Prenzlauer Berg', 'Neukölln', 'Kreuzberg']
     today = pd.Timestamp.now().normalize()
     dates = [today + timedelta(days=i) for i in range(91)]
     
