@@ -22,7 +22,7 @@ def generate_data():
     df_ap.to_csv(raw_path / "raw_ap_data.csv", index=False)
 
     # 2. Daily Ops (Revenue & CM2 components)
-    dates = [datetime.now().normalize() + timedelta(days=i) for i in range(91)]
+    dates = [(datetime.now().replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=i)) for i in range(91)]
     ops_data = {
         'Date': dates,
         'Revenue': [np.random.randint(90000, 150000) for _ in range(91)],
