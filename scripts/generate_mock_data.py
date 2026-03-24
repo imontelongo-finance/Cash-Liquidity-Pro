@@ -19,7 +19,7 @@ def generate_data():
     df_ap['Due_Date'] = df_ap['Invoice_Date'] + timedelta(days=14)
     df_ap.to_csv(raw_path / "raw_ap_data.csv", index=False)
 
-    # 2. Daily Ops - Using pd.Timestamp for safety
+    # 2. Daily Ops - Using pd.Timestamp for consistency with app.py
     today = pd.Timestamp.now().normalize()
     dates = [today + timedelta(days=i) for i in range(91)]
     ops_data = {
@@ -30,7 +30,7 @@ def generate_data():
         'Waste_Loss': [np.random.randint(2000, 5000) for _ in range(91)]
     }
     pd.DataFrame(ops_data).to_csv(raw_path / "raw_ops_data.csv", index=False)
-    print(f"✅ Mock data generated successfully.")
+    print("✅ Mock data generated successfully.")
 
 if __name__ == "__main__":
     generate_data()
