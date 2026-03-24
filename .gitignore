@@ -1,15 +1,9 @@
 # Python junk
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.DS_Store
-.env
 .venv/
-env/
+.env
 
-# Data artifacts (only keep raw, keep processed for reproducibility)
-data/processed/
+# Keep data for the live demo
 .pytest_cache/
 .streamlit/
 logs/*.log
