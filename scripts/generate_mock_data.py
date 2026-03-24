@@ -24,12 +24,12 @@ def generate_data():
     }
     
     df_ap = pd.DataFrame(ap_data)
-    # Varying payment terms (14 to 60 days) ensures outflows across the 13-week window
+    # Varying payment terms ensures outflows across the 13-week window
     terms = [14, 30, 45, 60]
     df_ap['Due_Date'] = df_ap['Invoice_Date'] + pd.to_timedelta(np.random.choice(terms, 300), unit='d')
     df_ap.to_csv(raw_path / "raw_ap_data.csv", index=False)
 
-    # 3. Daily Ops: Hub-specific revenue and costs
+    # 3. Daily Ops
     today = pd.Timestamp.now().normalize()
     dates = [today + timedelta(days=i) for i in range(91)]
     
@@ -46,7 +46,7 @@ def generate_data():
         ops_list.append(pd.DataFrame(hub_data))
     
     pd.concat(ops_list).to_csv(raw_path / "raw_ops_data.csv", index=False)
-    print("✅ Success: Enhanced Mock Data generated with full 13-week AP coverage.")
+    print("✅ Success: Enhanced Mock Data generated.")
 
 if __name__ == "__main__":
     generate_data()
