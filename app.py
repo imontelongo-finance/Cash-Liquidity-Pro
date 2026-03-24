@@ -6,13 +6,21 @@ import os
 import sys
 import subprocess
 
-# --- DATA SELF-HEALING BLOCK ---
-# Check if the processed data file exists. If not, run the pipeline.
-if not os.path.exists('data/processed/processed_data.csv'):
-    # We use sys.executable to ensure we use the same Python environment
-    subprocess.run([sys.executable, "scripts/generate_mock_data.py"])
-    subprocess.run([sys.executable, "scripts/process_data.py"])
-# -------------------------------
+# --- ROBUST DATA SELF-HEALING ---
+def initialize_data():
+    # 1. Create the directory structure if it doesn't exist
+    os.makedirs('data/raw', exist_ok=True)
+    os.makedirs('data/processed', exist_ok=True)
+    os.makedirs('logs', exist_ok=True)
+    
+    # 2. Check if processed data is missing
+    if not os.path.exists('data/processed/daily_cash_forecast.csv'):
+        # Use sys.executable to ensure we use the streamlit environment
+        subprocess.run([sys.executable, "scripts/generate_mock_data.py"], check=True)
+        subprocess.run([sys.executable, "scripts/process_data.py"], check=True)
+
+initialize_data()
+
 # --- CONFIG ---
 st.set_page_config(page_title="Flink Strategic Finance", layout="wide")
 DATA_PATH = Path(__file__).parent / "data" / "processed"
