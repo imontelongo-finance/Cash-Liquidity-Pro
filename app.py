@@ -2,7 +2,13 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from pathlib import Path
+import os
+import subprocess
 
+# Check if data exists; if not, run the generation script
+if not os.path.exists('data/processed/processed_data.csv'):
+    subprocess.run(["python", "scripts/generate_mock_data.py"])
+    subprocess.run(["python", "scripts/process_data.py"])
 # --- CONFIG ---
 st.set_page_config(page_title="Flink Strategic Finance", layout="wide")
 DATA_PATH = Path(__file__).parent / "data" / "processed"
