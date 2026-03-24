@@ -1,0 +1,7 @@
+{
+    "market": "Berlin",
+    "winter_multiplier": 1.25,
+    "summer_multiplier": 0.90,
+    "holiday_peak": 1.40,
+    "description": "Adjusts cash inflows based on historical German shopping patterns."
+}
